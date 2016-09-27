@@ -1,18 +1,18 @@
-# _Name_
+# _Design Case Study: The Science Behind Color and Emotion_
 
-#### _Project: functions for Epicodus, Date:_
+#### _Design Case Study for Epicodus 9/27/2016_
 
 #### By _**Megan Kaluza**_
 
 ## Description
 
-_This webpage displays a form with bootstrap, divs, checkboxes, ids, classes, jQuery, JavaScript, functions, and CSS that initiate a survey to decide which remaining classes to take at Epicodus. My HTML and .js pages include comments to organize and continue building my webpage_
+_This webpage shows a case study for a mock up created in Sketch containing HTML, CSS, Bootstrap, and different styles and fonts._
 
 ## Setup/Installation Requirements
 
 * _Clone this repository_
     _To clone using Git, use the following terminal command:_
-    __
+    _https://github.com/megankaluza/case_study.git_
 * _Open in text editor of your choice_
 *
 
