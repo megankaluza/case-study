@@ -5,9 +5,10 @@
  */
 a {
     color: pink;
-    -webkit-transition: all .35s;
-    -moz-transition: all .35s;
-    transition: all .35s;
+    font-family: 'Cormorant Unicase', serif;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    transition: all 1s;
 }
 
 a:hover,
