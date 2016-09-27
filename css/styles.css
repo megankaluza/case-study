@@ -5,16 +5,21 @@ body {
 
 h1 {
   margin-top: 5%;
-  padding: 3%;
+  padding: 2%;
   font-family: 'Tangerine', cursive;
   text-shadow: 2px 2px 2px black;
-  text-align: center;
   font-size: 3em;
 }
 
 h2 {
-    font-family: 'Tangerine', cursive;
-    text-align: center;
+  font-family: 'Cormorant Unicase', serif;
+  text-align: center;
+  font-size: 5em;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Tangerine', cursive;
 }
 
 header {
@@ -25,12 +30,23 @@ header {
   background-repeat:no-repeat;
   background-size:cover;
   box-shadow: 5px 10px 10px gray;
+  text-align: center;
 }
 
-div {
-  margin-left: 33%;
+hr {
+  background-color: black;
 }
 
 img {
   width: 800px;
+}
+
+.intro {
+  width: 500px;
+  margin-top: 5%;
+  margin-left: 42%;
+  box-shadow: 5px 5px 10px pink;
+  border: 1px solid black;
+  text-align: center;
+  background-color: white;
 }
