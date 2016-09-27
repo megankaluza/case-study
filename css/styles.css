@@ -1,35 +1,35 @@
 body {
-  width: 100%;
   background-color: black;
+  width: 100%;
 }
 
 h1 {
+  font-family: 'Tangerine', cursive;
+  font-size: 5em;
   margin-top: 3%;
   padding: 2%;
-  font-family: 'Tangerine', cursive;
-  text-shadow: 2px 2px 2px black;
-  font-size: 5em;
   text-align: center;
+  text-shadow: 2px 2px 2px black;
 }
 
 h2 {
   font-family: 'Cormorant Unicase', serif;
-  text-align: center;
   font-size: 5em;
+  text-align: center;
 }
 
 h3 {
-  text-align: center;
   font-family: 'Tangerine', cursive;
+  text-align: center;
 }
 
 header {
-  height: 400px;
   color: white;
-  font-family: 'Tangerine', cursive;
   background-image: url("../img/pink.png");
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: 'Tangerine', cursive;
+  height: 400px;
   text-align: center;
 }
 
@@ -38,32 +38,31 @@ img {
 }
 
 footer {
-  text-align: center;
   font-family: 'Tangerine', cursive;
+  text-align: center;
 }
 
 .color {
-  height: 100px;
   background-color: #777392;
+  height: 100px;
 }
 
 .intro {
-  width: 500px;
-  margin-top: 5%;
-  margin-left: 38%;
-  box-shadow: 5px 5px 10px white;
-  border: 1px solid black;
-  text-align: center;
   background-color: #F4F9E9;
+  border: 1px solid black;
+  box-shadow: 5px 5px 10px white;
+  margin: 5% 0 0 38%;
+  text-align: center;
+  width: 500px;
 }
 
 .typography {
   background-color: #F4F9E9;
+  border: 1px solid black;
+  box-shadow: 5px 5px 10px white;
+  height: 200px;
   margin: 5% 25%;
   text-align: center;
-  height: 200px;
-  box-shadow: 5px 5px 10px white;
-  border: 1px solid black;
 }
 
 .work_flow {
