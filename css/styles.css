@@ -8,7 +8,8 @@ h1 {
   padding: 2%;
   font-family: 'Tangerine', cursive;
   text-shadow: 2px 2px 2px black;
-  font-size: 3em;
+  font-size: 5em;
+  text-align: center;
 }
 
 h2 {
@@ -32,20 +33,35 @@ header {
   text-align: center;
 }
 
-hr {
-  background-color: black;
+img {
+  width: 250px;
 }
 
-img {
-  width: 800px;
+.color {
+  height: 100px;
+  background-color: #777392;
 }
 
 .intro {
   width: 500px;
   margin-top: 5%;
-  margin-left: 42%;
+  margin-left: 38%;
   box-shadow: 5px 5px 10px white;
   border: 1px solid black;
   text-align: center;
   background-color: #F4F9E9;
+}
+
+.typography {
+  background-color: #F4F9E9;
+  margin: 5% 25%;
+  text-align: center;
+  height: 200px;
+  box-shadow: 5px 5px 10px white;
+  border: 1px solid black;
+}
+
+.work_flow {
+ margin: 5% 25%;
+ text-align: center;
 }
