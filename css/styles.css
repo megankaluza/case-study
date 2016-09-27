@@ -37,6 +37,11 @@ img {
   width: 250px;
 }
 
+footer {
+  text-align: center;
+  font-family: 'Tangerine', cursive;
+}
+
 .color {
   height: 100px;
   background-color: #777392;
