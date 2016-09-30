@@ -13,7 +13,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+    color: black;
 }
 
 .bg-primary {
@@ -38,7 +38,6 @@ a:focus {
 section {
     padding: 100px 0;
 }
-
 
 aside {
     padding: 50px 0;
@@ -418,7 +417,6 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl {
     padding: 15px 30px;
 }
-
 
 ::-moz-selection {
     text-shadow: none;
