@@ -4,23 +4,29 @@
 
 #### By _**Megan Kaluza**_
 
+![screenshot](screen_shot.png)
+
 ## Description
 
 _This webpage shows a case study for a mock up created in Sketch containing HTML, CSS, Bootstrap, and different styles and fonts._
 
 ## Setup/Installation Requirements
 
+* _Check out the GitHub Pages: https://megankaluza.github.io/case-study_
+
 * _Clone this repository_
     _To clone using Git, use the following terminal command:_
-    _https://github.com/megankaluza/case_study.git_
+    _https://github.com/megankaluza/case-study.git_
 * _Open in text editor of your choice_
-*
+
 
 ## Known Bugs
 
 _No known bugs at this time_
 
 ## Support and contact details
+
+_megan.kaluza@gmail.com_
 
 ## Technologies Used
 
