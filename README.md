@@ -4,7 +4,7 @@
 
 #### By _**Megan Kaluza**_
 
-![screenshot](screen_shot.png)
+![screenshot](img/screen_shot.png)
 
 ## Description
 

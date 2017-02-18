@@ -1,5 +1,5 @@
 body {
-  background-color: #ECE9EC;
+  /*background-color: #ECE9EC;*/
   width: 100%;
 }
 
@@ -32,7 +32,7 @@ h4 {
 }
 
 hr {
-  border: 1px solid black;
+  /*border: 1px solid black;*/
 }
 
 header {
@@ -80,32 +80,34 @@ span {
   height: 100px;
 }
 
-.intro {
-  background-color: #F4F9E9;
-  border: 1px solid black;
-  box-shadow: 5px 5px 10px white;
-  margin: 5% 0 5% 38%;
-  padding: 5%;
-  text-align: center;
-  width: 500px;
-}
-
-.intro img {
-  width: 300px;
-}
-
-.inspiration {
-  background-size: cover;
-  margin-top: 1%;
-  margin-bottom: 2%;
-  width: 2545px;
-}
-
-.work_flow {
+.content {
  margin: 5% 25%;
  text-align: center;
 }
 
-.work_flow img {
-  width: 900px;
+.image {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.intro {
+  /*background-color: #F4F9E9;
+  border: 1px solid black;
+  box-shadow: 5px 5px 10px white;*/
+  margin: 5% 0 5% 38%;
+  padding: 5%;
+  text-align: center;
+  width: 700px;
+}
+
+.inspiration {
+  background-image: url('../img/inspiration.png');
+  background-size: cover;
+  height: 300px;
+}
+
+#context {
+  display: block;
+  margin: 0 auto;
 }
